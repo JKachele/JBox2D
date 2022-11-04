@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="jbox2d-library:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/jbox2d_library_jar</output-path>
+    <root id="archive" name="jbox2d-library.jar">
+      <element id="module-output" name="jbox2d-library" />
+    </root>
+  </artifact>
+</component>

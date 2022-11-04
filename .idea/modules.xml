@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JBox2D.iml" filepath="$PROJECT_DIR$/JBox2D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jbox2d-library/jbox2d-library.iml" filepath="$PROJECT_DIR$/jbox2d-library/jbox2d-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jbox2d-serialization/jbox2d-serialization.iml" filepath="$PROJECT_DIR$/jbox2d-serialization/jbox2d-serialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jbox2d-testbed/jbox2d-testbed.iml" filepath="$PROJECT_DIR$/jbox2d-testbed/jbox2d-testbed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jbox2d-testbed-jogl/jbox2d-testbed-jogl.iml" filepath="$PROJECT_DIR$/jbox2d-testbed-jogl/jbox2d-testbed-jogl.iml" />
+    </modules>
+  </component>
+</project>
